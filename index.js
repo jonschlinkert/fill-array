@@ -1,7 +1,7 @@
 /*!
  * fill-array <https://github.com/jonschlinkert/fill-array>
  *
- * Copyright (c) 2015 Jon Schlinkert, contributors.
+ * Copyright (c) 2015, Jon Schlinkert.
  * Licensed under the MIT license.
  */
 
